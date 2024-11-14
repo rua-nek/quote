@@ -1,1 +1,4 @@
-👋 Hi, I’m @rua-nek
+👋 Hi, I’m @rua
+Products of Trong Nam
+hic..
+

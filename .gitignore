@@ -1,0 +1,44 @@
+# Node.js
+node_modules/
+
+# SCSS
+.scss-cache/
+
+# CSS
+*.css.map
+
+# JavaScript
+*.js.map
+
+# TypeScript
+*.ts.map
+
+# HTML
+*.html.map
+
+# Image
+*.jpg.map
+*.png.map
+*.gif.map
+
+# Font
+*.ttf.map
+*.otf.map
+*.woff.map
+
+# Other
+.DS_Store
+Thumbs.db
+desktop.ini
+LICENSE
+README.md
+CHANGELOG.md
+
+# Folder
+
+dist/
+build/
+out/
+node_modules/
+sass/
+scss/
